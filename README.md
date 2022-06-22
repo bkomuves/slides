@@ -1,5 +1,5 @@
 
-Slides of same talks I gave
+Slides of some talks I gave
 ---------------------------
 
 Mathematics:
