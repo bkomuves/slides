@@ -10,6 +10,7 @@ Mathematics:
 
 Computer science:
 
+* [Introduction to zero-knowledge proof systems](computer_science/zk_proofs_intro_2022.pdf) (2022)
 * [Random-access lists, nested data types and numeral systems](computer_science/leipzig_2016.pdf) (2016)
 * [Elliptic curves in cryptography](computer_science/elliptic_curve_crypto_2014.pdf) (2014)
 * [The Bitcoin protocol](computer_science/bitcoin_protocol_2014.pdf) (2014)
