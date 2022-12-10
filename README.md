@@ -14,3 +14,4 @@ Computer science:
 * [Random-access lists, nested data types and numeral systems](computer_science/leipzig_2016.pdf) (2016)
 * [Elliptic curves in cryptography](computer_science/elliptic_curve_crypto_2014.pdf) (2014)
 * [The Bitcoin protocol](computer_science/bitcoin_protocol_2014.pdf) (2014)
+* [Trees as fixed point types](computer_science/fixplate_2011.pdf) (2011) - see also the [fixplate library](https://hackage.haskell.org/package/fixplate)
