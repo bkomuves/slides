@@ -7,6 +7,7 @@ Mathematics:
 * [Discriminants in the relative Grothendieck group of varieties](mathematics/grothendieck_2021.pdf) (2021)
 * [Motivic characteristic classes of coincident root loci](mathematics/motivic_2018.pdf) (2018)
 * [Equivariant Chern-Schwartz-MacPherson classes of coincident root loci](mathematics/csm_2017.pdf) (2017)
+* [Elliptic curves and ellipses, what’s the deal?](mathematics/elliptic_curves_2024.pdf) (2024, informal talk)
 
 Computer science:
 
