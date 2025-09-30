@@ -11,6 +11,7 @@ Mathematics:
 
 Cryptography:
 
+* [Introduction to zero-knowledge proofs](computer_science/zk_proofs_2025.pdf) (2025)
 * [Succinct proofs of arbitrary computations (zkVMs)](computer_science/zkvm_talk_2024.pdf) (2024)
 * [Introduction to zero-knowledge proof systems](computer_science/zk_proofs_intro_2022.pdf) (2022)
 * [Elliptic curves in cryptography](computer_science/elliptic_curve_crypto_2014.pdf) (2014)
